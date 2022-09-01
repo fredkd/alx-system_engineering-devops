@@ -1,1 +1,2 @@
--e#!/bin/bash\nrm -d /tmp/my_first_directory
+#!/bin/bash
+nrmdir /tmp/my_first_directory
