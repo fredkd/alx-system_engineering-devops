@@ -1,1 +1,1 @@
-New shell permissions
+Shell directions
